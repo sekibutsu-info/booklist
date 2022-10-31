@@ -8,5 +8,6 @@
 * 国立国会図書館サーチのAPI検索に用いたキーワードは「石仏」「石造物」「石造文化財」「金石文」「金石誌」「石塔」「石碑」「石造遺物」です。
 * 各レコードの緯度経度は、[CSISシンプルジオコーディング実験](https://geocode.csis.u-tokyo.ac.jp/home/simple-geocoding/)（街区レベル位置参照情報）を利用して取得しました。 
 * 国会図書館に未所蔵の書籍については、APIではなく国立国会図書館サーチの検索画面で検索した結果を使用しています。
+* 国会図書館デジタルコレクション（デジコレ）へのリンクは、[書誌IDリスト](https://www.ndl.go.jp/jp/dlib/standards/opendataset/index.html#ids)を用いて作成しました。
 
 [地図](https://sekibutsu.info/booklist/)で見ることができます。
